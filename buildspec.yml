@@ -1,9 +1,1 @@
-#!/bin/bash
-
-condition=true
-
-if [ "$condition" = true ]; then
-    echo "Hello, World!"
-else
-    echo "Condition is false"
-fi
+sadiya parveen
